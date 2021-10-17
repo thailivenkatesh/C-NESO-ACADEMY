@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1626775704 source:e:\neso\static_modifier\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1626776023 source:e:\neso\static_modifier\increment.c
+
